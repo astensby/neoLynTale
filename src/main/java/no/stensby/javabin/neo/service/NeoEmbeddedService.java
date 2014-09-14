@@ -6,6 +6,9 @@ import no.stensby.javabin.neo.repositories.PersonRepository;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+/*
+* Example class showcasing the use of an embedded Neo4j GraphDatabaseService
+* */
 public class NeoEmbeddedService {
 
 	public static void main(String[] args) {

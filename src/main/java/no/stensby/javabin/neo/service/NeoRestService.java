@@ -6,6 +6,9 @@ import no.stensby.javabin.neo.repositories.PersonRepository;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+/*
+* Example class showcasing the use of the REST based Neo4j GraphDatabaseService - SpringRestGraphDatabase
+* */
 public class NeoRestService {
 
 	public static void main(String[] args) {
